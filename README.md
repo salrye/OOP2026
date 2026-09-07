@@ -1,7 +1,7 @@
 # OOP2026
 
 #Homework1
-***java
+'''java
 public class HelloWorld {
     public static void main(String []args){
        for(int i=0; i<10; i++) {
@@ -45,7 +45,7 @@ public class HelloWorld {
 
 
 }
-***
+'''
 
 
 
