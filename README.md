@@ -48,7 +48,7 @@ public class HelloWorld {
 
 }
 ```
-
+![Alt homework11](./images/homework1.jpg)
 
 ### Homework2
 
@@ -67,8 +67,7 @@ public class pivo {
 	}	
 }
 ```
-
-
+![Alt homework11](./images/homework2.jpg)
 
 ### Homework3
 
@@ -88,7 +87,7 @@ public class golden_ratio{
 	
 }
 ```
-
+![Alt homework11](./images/homework3.jpg)
 
 ### Homework4
 
@@ -104,5 +103,7 @@ public class multiplication_table {
 	}
 }
 ```
+
+![Alt homework11](./images/homework4.jpg)
 
 
