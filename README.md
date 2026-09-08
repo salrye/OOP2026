@@ -1,6 +1,6 @@
 # OOP2026
 
-## [week1]([https://github.com/salrye/OOP2026/blob/main/week%201](https://github.com/salrye/OOP2026/blob/main/week1.md))
+## [week1](https://github.com/salrye/OOP2026/blob/main/week1.md)
 
 
 ## week2
