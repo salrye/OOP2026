@@ -35,11 +35,15 @@ public class Pi_calc {
 	  }
 ```
 
+![Alt homework5](./images/homework5.jpg)
+
 ### Homework 6
 
 ```java
 
 ```
+
+![Alt homework6](./images/homework6.jpg)
 
 ### Homework 7
 
@@ -70,10 +74,15 @@ public class Soting_al {
 		    System.out.println(data[i]);
 	}
 ```
+
+![Alt homework7](./images/homework7.jpg)
+
 ### Homework 8
 
 ```java
 
 ```
+
+![Alt homework8](./images/homework8.jpg)
 
 ### week 3
