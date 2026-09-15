@@ -182,7 +182,12 @@ public class Pi_calc {
 
 ![Alt homework6](./images/homework6.jpg)
 </details>
-### Homework 7
+
+<details>
+	<summary>
+		### Homework 7
+	</summary>
+
 
 ```java
 public class Soting_al {
@@ -213,6 +218,7 @@ public class Soting_al {
 ```
 
 ![Alt homework7](./images/homework7.jpg)
+
 </details>
 
 <details>
