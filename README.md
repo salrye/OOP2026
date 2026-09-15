@@ -85,7 +85,6 @@ public class pivo {
 </details>
 
 <details>
-	
 	<summary>	
 		### Homework 3
 		</summary>
