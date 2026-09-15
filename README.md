@@ -62,8 +62,8 @@ public class HelloWorld {
 
 <details>
 	<summary>
-	### Homework 2
-</summary>
+		### Homework 2
+		</summary>
 	
 ```java
 public class pivo {
@@ -82,11 +82,13 @@ public class pivo {
 ```
 ![Alt homework2](./images/homework2.jpg)
 
+</details>
+
 <details>
 	
 	<summary>	
 		### Homework 3
-	</summary>
+		</summary>
 
 ```java
 public class golden_ratio{
@@ -110,7 +112,7 @@ public class golden_ratio{
 <details>
 	<summary>
 		### Homework 4
-	</summary>
+		</summary>
 
 ```java
 public class multiplication_table {
