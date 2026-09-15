@@ -1,8 +1,9 @@
 # OOP2026
 
-[#week1](#week1)
-<br>
-[#week2](#week2)
+# [week1](#week1)<br>
+# [week2](#week2)<br>
+# [week3](#week3)<br>
+
 
 
 ## week1
@@ -237,3 +238,38 @@ public class Soting_al {
 </details>
 
 ### week 3
+
+<details>
+	<summary>
+		### Homework 9
+	</summary>
+
+![Alt homework8](./images/homework9.jpg)	
+</details>
+
+<details>
+	<summary>
+		### Homework 10
+	</summary>
+
+![Alt homework8](./images/homework10.jpg)	
+</details>
+
+
+<details>
+	<summary>
+		### Homework 11
+	</summary>
+
+![Alt homework8](./images/homework11.jpg)	
+</details>
+
+
+<details>
+	<summary>
+		### Homework 12
+	</summary>
+
+![Alt homework8](./images/homework12.jpg)	
+</details>
+
