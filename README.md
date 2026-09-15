@@ -9,7 +9,8 @@
 </summary>
 <details>
 	<summary>
-		### Homework 1
+		
+### Homework 1
 		</summary>
 	
 
@@ -65,7 +66,8 @@ public class HelloWorld {
 
 <details>
 	<summary>
-		### Homework 2
+		
+### Homework 2
 		</summary>
 	
 ```java
@@ -89,7 +91,8 @@ public class pivo {
 
 <details>
 	<summary>	
-		### Homework 3
+		
+### Homework 3
 		</summary>
 
 ```java
@@ -113,7 +116,8 @@ public class golden_ratio{
 
 <details>
 	<summary>
-		### Homework 4
+		
+### Homework 4
 		</summary>
 
 ```java
@@ -134,12 +138,15 @@ public class multiplication_table {
 </details>
 </details>
 
-## week2
 <details>
-	<summary> </summary>
+	<summary> 
+		
+## week2
+</summary>
 <details>
 	<summary>
-		### Homework 5
+		
+### Homework 5
 	</summary>
 
 
@@ -177,7 +184,8 @@ public class Pi_calc {
 
 <details>
 	<summary>
-		### Homework 6
+		
+### Homework 6
 	</summary>
 
 ```java
@@ -189,7 +197,8 @@ public class Pi_calc {
 
 <details>
 	<summary>
-		### Homework 7
+		
+### Homework 7
 	</summary>
 
 
@@ -227,7 +236,8 @@ public class Soting_al {
 
 <details>
 	<summary>
-		### Homework 8
+		
+### Homework 8
 	</summary>
 
 
@@ -240,13 +250,15 @@ public class Soting_al {
 </details>
 </details>
 
-
-## week 3
 <details>
-	<summary> </summary>
+	<summary> 
+		
+## week 3
+</summary>
 <details>
 	<summary>
-		### Homework 9
+		
+### Homework 9
 	</summary>
 
 ![Alt homework8](./images/homework9.jpg)	
@@ -254,7 +266,8 @@ public class Soting_al {
 
 <details>
 	<summary>
-		### Homework 10
+	
+### Homework 10
 	</summary>
 
 ![Alt homework8](./images/homework10.jpg)	
@@ -263,7 +276,8 @@ public class Soting_al {
 
 <details>
 	<summary>
-		### Homework 11
+		
+### Homework 11
 	</summary>
 
 ![Alt homework8](./images/homework11.jpg)	
@@ -272,7 +286,8 @@ public class Soting_al {
 
 <details>
 	<summary>
-		### Homework 12
+		
+### Homework 12
 	</summary>
 
 ![Alt homework8](./images/homework12.jpg)	
