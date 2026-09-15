@@ -234,7 +234,32 @@ public class Soting_al {
 
 
 ```java
+public class Report_card {
+	public static void main(String []args){
+	int score[][] = new int[30][6];
+	
+	for (int i=0;i<30;i++) {
+		int sum=0;
+		for(int j=0;j<6;j++) {
+			
+			if(j<1)
+				score[i][j]= i+1;
+			else if(j>1&&j<5) {
+				score[i][j]=(int)(Math.random()*100);
+			}
+			if(j>4&&j<6) {
+				for(int k=1;k<5;k++)
+					sum += score[i][k];
+				//System.out.println(sum);
+				score[i][j]=sum;
+			}
+			System.out.printf("%d ",score[i][j]);
 
+		}
+		System.out.println();
+
+	}
+	}
 ```
 
 ![Alt homework8](./images/homework8.jpg)
@@ -251,6 +276,10 @@ public class Soting_al {
 	<summary>
 		### Homework 9
 	</summary>
+	
+```java
+
+```
 
 ![Alt homework8](./images/homework9.jpg)	
 </details>
@@ -260,6 +289,10 @@ public class Soting_al {
 	### Homework 10
 	</summary>
 
+```java
+
+```
+
 ![Alt homework8](./images/homework10.jpg)	
 </details>
 
@@ -268,6 +301,10 @@ public class Soting_al {
 	<summary>
 		### Homework 11
 	</summary>
+	
+```java
+
+```
 
 ![Alt homework8](./images/homework11.jpg)	
 </details>
@@ -277,6 +314,10 @@ public class Soting_al {
 	<summary>
 		### Homework 12
 	</summary>
+	
+```java
+
+```
 
 ![Alt homework8](./images/homework12.jpg)	
 
