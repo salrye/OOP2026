@@ -5,7 +5,7 @@
 
 ## week1
 <details>
-	<summary> </summary>
+	<summary></summary>
 <details>
 	<summary>
 		### Homework 1
