@@ -1,12 +1,10 @@
 # OOP2026
 
-# [week1](#week1)<br>
-# [week2](#week2)<br>
-# [week3](#week3)<br>
 
 
 
 ## week1
+<details>
 <details>
 	<summary>
 		### Homework 1
@@ -132,9 +130,9 @@ public class multiplication_table {
 ![Alt homework4](./images/homework4.jpg)
 
 </details>
-
+</details>
 ## week2
-
+<details>
 <details>
 	<summary>
 		### Homework 5
@@ -236,7 +234,9 @@ public class Soting_al {
 ![Alt homework8](./images/homework8.jpg)
 
 </details>
+</details>
 
+<details>
 ## week 3
 
 <details>
@@ -272,4 +272,4 @@ public class Soting_al {
 
 ![Alt homework8](./images/homework12.jpg)	
 </details>
-
+</details>
