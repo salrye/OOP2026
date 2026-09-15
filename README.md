@@ -213,6 +213,7 @@ public class Soting_al {
 ```
 
 ![Alt homework7](./images/homework7.jpg)
+</details>
 
 <details>
 	<summary>
