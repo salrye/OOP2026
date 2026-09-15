@@ -244,13 +244,12 @@ public class Report_card {
 			
 			if(j<1)
 				score[i][j]= i+1;
-			else if(j>1&&j<5) {
+			else if(j<5) {
 				score[i][j]=(int)(Math.random()*100);
 			}
-			if(j>4&&j<6) {
+			else if(j<6) {
 				for(int k=1;k<5;k++)
 					sum += score[i][k];
-				//System.out.println(sum);
 				score[i][j]=sum;
 			}
 			System.out.printf("%d ",score[i][j]);
@@ -260,6 +259,7 @@ public class Report_card {
 
 	}
 	}
+}
 ```
 
 ![Alt homework8](./images/homework8.jpg)
