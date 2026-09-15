@@ -5,7 +5,7 @@
 
 ## week1
 <details>
-	<summary>*</summary>
+	<summary> </summary>
 <details>
 	<summary>
 		### Homework 1
@@ -135,11 +135,11 @@ public class multiplication_table {
 
 ## week2
 <details>
-	<summary>*</summary>
-	<details>
-		<summary>
-			### Homework 5
-		</summary>
+	<summary> </summary>
+<details>
+	<summary>
+		### Homework 5
+	</summary>
 
 
 ```java
@@ -172,24 +172,24 @@ public class Pi_calc {
 
 ![Alt homework5](./images/homework5.jpg)
 
-	</details>
+</details>
 
-	<details>
-		<summary>
-			### Homework 6
-		</summary>
+<details>
+	<summary>
+		### Homework 6
+	</summary>
 
 ```java
 
 ```
 
 ![Alt homework6](./images/homework6.jpg)
-	</details>
+</details>
 
-	<details>
-		<summary>
-			### Homework 7
-		</summary>
+<details>
+	<summary>
+		### Homework 7
+	</summary>
 
 
 ```java
@@ -222,12 +222,12 @@ public class Soting_al {
 
 ![Alt homework7](./images/homework7.jpg)
 
-	</details>
+</details>
 
-	<details>
-		<summary>
-			### Homework 8
-		</summary>
+<details>
+	<summary>
+		### Homework 8
+	</summary>
 
 
 ```java
@@ -236,44 +236,45 @@ public class Soting_al {
 
 ![Alt homework8](./images/homework8.jpg)
 
-	</details>
+</details>
 </details>
 
 
 ## week 3
 <details>
-	<summary>*</summary>
-	<details>
-		<summary>
-			### Homework 9
-		</summary>
+	<summary> </summary>
+<details>
+	<summary>
+		### Homework 9
+	</summary>
 
 ![Alt homework8](./images/homework9.jpg)	
-	</details>
+</details>
 
-	<details>
-		<summary>
-			### Homework 10
-		</summary>
+<details>
+	<summary>
+		### Homework 10
+	</summary>
 
 ![Alt homework8](./images/homework10.jpg)	
-	</details>
+</details>
 
 
-	<details>
-		<summary>
-			### Homework 11
-		</summary>
+<details>
+	<summary>
+		### Homework 11
+	</summary>
 
 ![Alt homework8](./images/homework11.jpg)	
-	</details>
+</details>
 
 
-	<details>
-		<summary>
-			### Homework 12
-		</summary>
+<details>
+	<summary>
+		### Homework 12
+	</summary>
 
 ![Alt homework8](./images/homework12.jpg)	
-	</details>
+
+</details>
 </details>
