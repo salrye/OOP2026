@@ -1,13 +1,12 @@
 # OOP2026
 
-## [week1](#week1)
+[week1](#week1)
 
 
 ## week1
 <details>
 	<summary>
-		
-### Homework 1
+		### Homework 1
 		</summary>
 	
 
@@ -62,8 +61,7 @@ public class HelloWorld {
 </details>
 <details>
 	<summary>
-
-### Homework 2
+	### Homework 2
 </summary>
 	
 ```java
@@ -85,8 +83,7 @@ public class pivo {
 
 <details>
 <summary>	
-
-### Homework 3
+	### Homework 3
 </summary>
 
 ```java
@@ -106,8 +103,12 @@ public class golden_ratio{
 }
 ```
 ![Alt homework3](./images/homework3.jpg)
+</details>
 
-### Homework 4
+<details>
+	<summary>
+	### Homework 4
+</summary>
 
 ```java
 public class multiplication_table {
