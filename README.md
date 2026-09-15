@@ -1,6 +1,7 @@
 # OOP2026
 
-[*week1](#week1)
+[#week1](#week1)
+[#week2](#week2)
 
 
 ## week1
@@ -132,7 +133,11 @@ public class multiplication_table {
 
 ## week2
 
-### Homework 5
+<details>
+	<summary>
+		### Homework 5
+	</summary>
+
 
 ```java
 public class Pi_calc {
@@ -166,15 +171,17 @@ public class Pi_calc {
 
 </details>
 
-
-### Homework 6
+<details>
+	<summary>
+		### Homework 6
+		</summary>
 
 ```java
 
 ```
 
 ![Alt homework6](./images/homework6.jpg)
-
+</details>
 ### Homework 7
 
 ```java
@@ -207,12 +214,18 @@ public class Soting_al {
 
 ![Alt homework7](./images/homework7.jpg)
 
-### Homework 8
+<details>
+	<summary>
+		### Homework 8
+	</summary>
+
 
 ```java
 
 ```
 
 ![Alt homework8](./images/homework8.jpg)
+
+</details>
 
 ### week 3
