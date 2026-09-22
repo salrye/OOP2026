@@ -323,3 +323,86 @@ public class Report_card {
 
 </details>
 </details>
+
+## week 4
+</summary>
+<details>
+	<summary>
+		### Homework 13
+	</summary>
+	
+```java
+import java.util.Scanner;
+public class calc {
+  public static void main(String[] args) {
+	  int result;
+    while(true) {
+      Scanner scanner = new Scanner(System.in);
+      String inputString = scanner.nextLine();
+      System.out.println(inputString);
+      String[] arrOfStr = inputString.split(" "); 
+      for (String a : arrOfStr) 
+        System.out.println(a);
+      if(arrOfStr[1].equals("+")) { 
+    	  result = Integer.parseInt(arrOfStr[0])+Integer.parseInt(arrOfStr[2]);
+      	System.out.println(result);
+      	}
+      if(arrOfStr[1].equals("-")) { 
+    	  result = Integer.parseInt(arrOfStr[0])-Integer.parseInt(arrOfStr[2]);
+    	System.out.println(result);
+    	}
+      if(arrOfStr[1].equals("*")) { 
+    	  result = Integer.parseInt(arrOfStr[0])*Integer.parseInt(arrOfStr[2]);
+      	System.out.println(result);
+      	}
+      if(arrOfStr[1].equals("/")) { 
+    	  result = Integer.parseInt(arrOfStr[0])/Integer.parseInt(arrOfStr[2]);
+      	System.out.println(result);
+      	}
+  }
+}
+}
+```
+
+![Alt homework8](./images/homework13.jpg)	
+</details>
+
+<details>
+	<summary>
+	### Homework 14
+	</summary>
+
+```java
+
+```
+
+![Alt homework8](./images/homework14.jpg)	
+</details>
+
+
+<details>
+	<summary>
+		### Homework 15
+	</summary>
+	
+```java
+
+```
+
+![Alt homework8](./images/homework15.jpg)	
+</details>
+
+
+<details>
+	<summary>
+		### Homework 16
+	</summary>
+	
+```java
+
+```
+
+![Alt homework8](./images/homework16.jpg)	
+
+</details>
+</details>
