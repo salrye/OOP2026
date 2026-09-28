@@ -1,4 +1,4 @@
-# OOP2026
+<img width="1055" height="579" alt="image" src="https://github.com/user-attachments/assets/e0f71e55-4126-4e4f-b101-a39d918db2ea" /># OOP2026
 
 
 
@@ -296,7 +296,23 @@ public class Report_card {
 	</summary>
 	
 ```java
+public class bianry_decimal {
+	public static void main(String []args){
+		int a=(int)(Math.random()*100);
 
+		System.out.println(a);		
+		ba(a);
+		
+	}
+static void ba(int a) {
+	if (a<=0)
+		return;
+	else {
+		ba(a/2);
+		System.out.printf("%d",a%2);
+		}
+	}
+}
 ```
 
 ![Alt homework8](./images/homework9.jpg)	
@@ -334,7 +350,7 @@ public class Report_card {
 	</summary>
 	
 ```java
-
+	not codig
 ```
 
 ![Alt homework8](./images/homework12.jpg)	
