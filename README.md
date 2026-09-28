@@ -1,4 +1,4 @@
-<img width="1055" height="579" alt="image" src="https://github.com/user-attachments/assets/e0f71e55-4126-4e4f-b101-a39d918db2ea" /># OOP2026
+# OOP2026
 
 
 
