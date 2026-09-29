@@ -315,7 +315,7 @@ static void ba(int a) {
 }
 ```
 
-![Alt homework8](./images/homework9.jpg)	
+![Alt homework9](./images/homework9.jpg)	
 </details>
 
 <details>
@@ -357,7 +357,7 @@ public class histogram {
 }
 ```
 
-![Alt homework8](./images/homework10.jpg)	
+![Alt homework10](./images/homework10.jpg)	
 </details>
 
 
@@ -383,7 +383,7 @@ public class histogram {
 	not codig
 ```
 
-![Alt homework8](./images/homework12.jpg)	
+![Alt homework12](./images/homework12.jpg)	
 
 </details>
 </details>
@@ -430,7 +430,7 @@ public class calc {
 }
 ```
 
-![Alt homework8](./images/homework13.jpg)	
+![Alt homework13](./images/homework13.jpg)	
 </details>
 
 <details>
@@ -442,7 +442,7 @@ public class calc {
 
 ```
 
-![Alt homework8](./images/homework14.jpg)	
+![Alt homework14](./images/homework14.jpg)	
 </details>
 
 
@@ -455,7 +455,7 @@ public class calc {
 
 ```
 
-![Alt homework8](./images/homework15.jpg)	
+![Alt homework15](./images/homework15.jpg)	
 </details>
 
 
@@ -468,7 +468,7 @@ public class calc {
 
 ```
 
-![Alt homework8](./images/homework16.jpg)	
+![Alt homework16](./images/homework16.jpg)	
 
 </details>
 </details>
