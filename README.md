@@ -324,7 +324,37 @@ static void ba(int a) {
 	</summary>
 
 ```java
-
+public class histogram {
+	public static void main(String []args){
+		int his[]= new int[100];
+		int cnt=0,sum[]=new int[10],k=0;
+		while (k<10) {
+			for(int j=0;j<100;j++)
+			{
+				his[j]=(int)(Math.random()*100);
+				//System.out.println(his[i]);
+				cnt+=1;
+				if(cnt%9==0) {
+					for(int n=j;n>j-10;n--) {
+						sum[k]+=his[j];	
+					}	
+			}
+		}
+			sum[k]/=100;
+			//System.out.println(sum[k]);
+			k++;		
+		}
+		k=0;
+		while (k<10) {
+			System.out.printf("%d ~ %d ",k*10,k*10+9);
+			for(int i=0;i<sum[k];i++) {
+				System.out.print("#");
+			}
+			System.out.println();
+			k++;
+		}	
+	}
+}
 ```
 
 ![Alt homework8](./images/homework10.jpg)	
