@@ -370,7 +370,7 @@ public class histogram {
 
 ```
 
-![Alt homework8](./images/homework11.jpg)	
+![Alt homework11](./images/homework11.jpg)	
 </details>
 
 
