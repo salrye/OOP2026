@@ -367,6 +367,39 @@ public class histogram {
 	</summary>
 	
 ```java
+public class mean {
+	public static void main(String[] args) {
+		int n = 10;
+		double ari, geo, har, sum1 = 0, sum2 = 1, sum3 = 0;
+		int num[] = new int[n];
+		
+		for (int i = 0; i < n; i++) {
+			num[i] = (int) (Math.random() * n);
+			sum1 += num[i];
+			sum2 *= num[i];
+			sum3 += 1.0 / num[i];
+		}
+		ari = sum1 / n;
+		geo = Math.pow(sum2, 1.0 / n);
+		har = n / sum3;
+		for (int i = 0; i < n; i++) {
+			int a = num[i];
+			if (i > 0) {
+				for (int j = 0; j < n; j++) {
+					if (a > num[j]) {
+						a = num[j];
+						num[j] = num[i];
+						num[i] = a;
+					}
+				}
+
+			}
+		}
+		System.out.printf("ari : %f\ngeo : %f\nhar : %f\n", ari, geo, har);
+		for (int i = 0; i < n; i++)
+			System.out.print(num[i] + " ");
+	}
+}
 
 ```
 
