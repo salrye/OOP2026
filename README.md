@@ -395,9 +395,16 @@ public class mean {
 
 			}
 		}
-		System.out.printf("ari : %f\ngeo : %f\nhar : %f\n", ari, geo, har);
-		for (int i = 0; i < n; i++)
-			System.out.print(num[i] + " ");
+		if (n%2==0) {
+			mid1=num[(n/2)-1];
+			mid2=num[n/2];
+			mid = (mid1+mid2)/2.0;
+		}	
+		else
+			mid = num[n/2];
+		System.out.printf("ari : %f\ngeo : %f\nhar : %f\nmid : %f\n", ari, geo, har,mid);
+		//for (int i = 0; i < n; i++)
+		//	System.out.print(num[i] + " ");
 	}
 }
 
