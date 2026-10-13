@@ -477,11 +477,130 @@ public class calc {
 	<summary>
 	### Homework 14
 	</summary>
-
+	
+<details>
+	<summary>
+		class
+	</summary>
+	
 ```java
+public class Num {
+	int num[];
+	Num(int num[]) {
+		this.num = num;
+	}
+	double getTotal(int n) {
+		double sum1=0,sum2=1,sum3=0;
+		for(int i=0; i<num.length; i++) {
+			sum1+=num[i];
+			sum2*=num[i];
+			sum3+=1.0/num[i];
+		}
+		if(n==1)
+			return sum1;
+		else if(n==2)
+			return sum2;
+		else
+			return sum3;
+	}
+	double getArithmaticMean() {
+		return getTotal(1)/num.length;
+	}
+	double getHarmonicMean() {
+		return Math.pow(getTotal(2),1.0/num.length);
+	}
+	double getGeometricMean() {
+		return num.length/getTotal(3);
+	}	
+	int getMedian() {
+		//sorting();
+		int mid1,mid2;
+		if (num.length%2==0) {
+			mid1=num[(num.length/2)-1];
+			mid2=num[num.length/2];
+			return (mid1+mid2)/2;
+		}	
+		else
+			return num[num.length/2];
+		
+	}
+	void sorting() {
+		for (int i = 0; i < num.length - 1; i++) {
+		    for (int j = i + 1; j < num.length; j++) {
+		        if (num[i] > num[j]) {
+		            int a = num[i];
+		            num[i] = num[j];
+		            num[j] = a;
+		        }
+		    }
+		}
+	}
+	void drawHistogram(int start, int end, int binCount, int scale) {
+	    //sorting();
+
+	    int[] sum = new int[binCount];
+	    int width = (end - start) / scale;
+
+	    for (int i = 0; i < num.length; i++) {
+	        if (num[i] >= start && num[i] <= end) {
+	            int k = (num[i] - start) / width;
+
+	            if (k == binCount) {
+	                k--;
+	            }
+
+	            sum[k]++;
+	        }
+	    }
+
+	    for (int k = 0; k < binCount; k++) {
+	        int binStart = start + k * width;
+	        int binEnd = binStart + width;
+
+	        System.out.printf("%2d~%2d : ", binStart, binEnd);
+
+	        for (int j = 0; j < sum[k] * scale; j++) {
+	            System.out.print("#");
+	        }
+	        System.out.println();
+	        //System.out.println(" (" + sum[k] + ")");
+	    }
+	}
+	void display() {
+		sorting();
+		System.out.printf("%3d :", num.length);		
+		for(int i=0; i<num.length; i++) System.out.printf("%3d ", num[i]);
+		System.out.println();
+
+	}
+}
 
 ```
+</details>
 
+<details>
+	<summary>
+		use
+	</summary>
+		
+```java
+public class numtest {
+	public static void main(String[] args) {
+		int size=100;
+		int data[]=new int[size];
+		for(int i=0; i<size; i++) data[i]=(int)(Math.random()*100);
+		Num obj = new Num(data);
+		obj.display();
+		System.out.printf("Arithmetic Mean : %5.2f\n", obj.getArithmaticMean());
+		System.out.printf("Geometric Mean : %5.2f\n", obj.getGeometricMean());		
+		System.out.printf("Harmonic Mean : %5.2f\n", obj.getHarmonicMean());	
+		System.out.printf("Median Mean : %d\n", obj.getMedian());	
+		obj.drawHistogram(0,100,10,10);// min, max, bin_size, display_scale;
+	}
+}
+```
+</details>
+			
 ![Alt homework14](./images/homework14.jpg)	
 </details>
 
