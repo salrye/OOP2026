@@ -477,6 +477,7 @@ public class calc {
 	<summary>
 	### Homework 14
 	</summary>
+
 	
 <details>
 	<summary>
