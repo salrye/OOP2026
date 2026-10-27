@@ -481,7 +481,7 @@ public class calc {
 	
 <details>
 	<summary>
-		class
+				class
 	</summary>
 	
 ```java
@@ -581,7 +581,7 @@ public class Num {
 
 <details>
 	<summary>
-		use
+				use
 	</summary>
 		
 ```java
