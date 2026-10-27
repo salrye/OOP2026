@@ -12,6 +12,9 @@
 	### Homework 1
 		</summary>
 	
+<blockquote>
+	<details>
+		<summary>code</summary>
 
 ```java
 
@@ -59,15 +62,23 @@ public class HelloWorld {
 
 }
 ```
+</details>
+</blockquote>
+<blockquote>
+<details>
+	<summary>image</summary>
 ![Alt homework1](./images/homework1.jpg)
-
+</details>
+</blockquote>
 </details>
 
 <details>
 	<summary>
 		### Homework 2
 		</summary>
-	
+<blockquote>
+<details>
+	<summary>code</summary>	
 ```java
 public class pivo {
 	public static void main(String []args){
@@ -83,14 +94,26 @@ public class pivo {
 	}	
 }
 ```
-![Alt homework2](./images/homework2.jpg)
+</details>
+</blockquote>
+<blockquote>
+<details>
+	<summary>image</summary>
 
+![Alt homework2](./images/homework2.jpg)
+</details>
+</blockquote>
 </details>
 
 <details>
 	<summary>	
 	### Homework 3
 		</summary>
+
+<blockquote>
+<details>
+	<summary>code</summary>
+
 
 ```java
 public class golden_ratio{
@@ -108,13 +131,25 @@ public class golden_ratio{
 	
 }
 ```
+</details>
+</blockquote>
+<blockquote>
+<details>
+	<summary>image</summary>
+
 ![Alt homework3](./images/homework3.jpg)
+</details>
+</blockquote>
 </details>
 
 <details>
 	<summary>
 		### Homework 4
 		</summary>
+
+<blockquote>
+<details>
+	<summary>code</summary>
 
 ```java
 public class multiplication_table {
@@ -128,9 +163,15 @@ public class multiplication_table {
 	}
 }
 ```
+</details>
+</blockquote>
 
+<blockquote>
+<details>
+	<summary>image</summary>
 ![Alt homework4](./images/homework4.jpg)
-
+</details>
+</blockquote>
 </details>
 </details>
 
