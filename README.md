@@ -5,7 +5,7 @@
 <details>
 	<summary>
 		
-## week1
+## 1-4
 </summary>
 <details>
 	<summary>	
@@ -137,7 +137,7 @@ public class multiplication_table {
 <details>
 	<summary> 
 		
-## week2
+## 5-8
 </summary>
 <details>
 	<summary>
@@ -288,7 +288,7 @@ public class Report_card {
 <details>
 	<summary> 
 		
-## week 3
+## 9-12
 </summary>
 <details>
 	<summary>
@@ -430,7 +430,7 @@ public class mean {
 <details>
 	<summary>
 		
-## week 4
+## 13-15
 </summary>
 <details>
 	<summary>
@@ -619,16 +619,5 @@ public class numtest {
 </details>
 
 
-<details>
-	<summary>
-		### Homework 16
-	</summary>
-	
-```java
 
-```
-
-![Alt homework16](./images/homework16.jpg)	
-
-</details>
 </details>
