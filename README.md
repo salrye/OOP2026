@@ -478,10 +478,10 @@ public class calc {
 	### Homework 14
 	</summary>
 
-	
+<blockquote>	
 <details>
 	<summary>
-		<blockquote> class </blockquote>
+		 class 
 	</summary>
 	
 ```java
@@ -578,10 +578,12 @@ public class Num {
 
 ```
 </details>
+</blockquote>
 
+<blockquote>
 <details>
 	<summary>
-		<blockquote> use </blockquote>
+		 use 
 	</summary>
 		
 ```java
@@ -601,7 +603,7 @@ public class numtest {
 }
 ```
 </details>
-			
+</blockquote>			
 ![Alt homework14](./images/homework14.jpg)	
 </details>
 
