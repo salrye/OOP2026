@@ -154,6 +154,7 @@ public class golden_ratio{
 <blockquote>
 <details>
 	<summary>code</summary>
+	
 ```java
 public class multiplication_table {
 	public static void main(String []args) {
@@ -189,7 +190,9 @@ public class multiplication_table {
 	<summary>
 		### Homework 5
 	</summary>
-
+<blockquote>
+<details>
+	<summary>code</summary>
 
 ```java
 public class Pi_calc {
@@ -219,14 +222,25 @@ public class Pi_calc {
 	  }
 ```
 
-![Alt homework5](./images/homework5.jpg)
+</details>
+</blockquote>
 
+<blockquote>
+<details>
+	<summary>image</summary>
+
+![Alt homework5](./images/homework5.jpg)
+</details>
+</blockquote>
 </details>
 
 <details>
 	<summary>
 		### Homework 6
 	</summary>
+<blockquote>
+<details>
+	<summary>code</summary>
 
 ```java
 public class BinomialCoefficients {
@@ -250,7 +264,16 @@ public class BinomialCoefficients {
 }
 ```
 
+</details>
+</blockquote>
+
+<blockquote>
+<details>
+	<summary>image</summary>
+
 ![Alt homework6](./images/homework6.jpg)
+</details>
+</blockquote>
 </details>
 
 <details>
@@ -258,6 +281,9 @@ public class BinomialCoefficients {
 		### Homework 7
 	</summary>
 
+<blockquote>
+<details>
+	<summary>code</summary>
 
 ```java
 public class Soting_al {
@@ -287,15 +313,26 @@ public class Soting_al {
 	}
 ```
 
-![Alt homework7](./images/homework7.jpg)
-
 </details>
+</blockquote>
+
+<blockquote>
+<details>
+	<summary>image</summary>
+	
+![Alt homework7](./images/homework7.jpg)
+</details>
+</blockquote>
+</details>
+
 
 <details>
 	<summary>
 		### Homework 8
 	</summary>
-
+<blockquote>
+<details>
+	<summary>code</summary>
 
 ```java
 public class Report_card {
@@ -326,7 +363,16 @@ public class Report_card {
 }
 ```
 
+</details>
+</blockquote>
+
+<blockquote>
+<details>
+	<summary>image</summary>
+
 ![Alt homework8](./images/homework8.jpg)
+</details>
+</blockquote>
 
 </details>
 </details>
@@ -340,6 +386,9 @@ public class Report_card {
 	<summary>
 		### Homework 9
 	</summary>
+<blockquote>
+<details>
+	<summary>code</summary>	
 	
 ```java
 public class bianry_decimal {
@@ -360,14 +409,25 @@ static void ba(int a) {
 	}
 }
 ```
+</details>
+</blockquote>
 
+<blockquote>
+<details>
+	<summary>image</summary>
+	
 ![Alt homework9](./images/homework9.jpg)	
+</details>
+</blockquote>
 </details>
 
 <details>
 	<summary>
 	### Homework 10
 	</summary>
+<blockquote>
+<details>
+	<summary>code</summary>
 
 ```java
 public class histogram {
@@ -402,8 +462,16 @@ public class histogram {
 	}
 }
 ```
+</details>
+</blockquote>
+
+<blockquote>
+<details>
+	<summary>image</summary>
 
 ![Alt homework10](./images/homework10.jpg)	
+</details>
+</blockquote>
 </details>
 
 
@@ -411,6 +479,9 @@ public class histogram {
 	<summary>
 		### Homework 11
 	</summary>
+<blockquote>
+<details>
+	<summary>code</summary>
 	
 ```java
 public class mean {
@@ -456,7 +527,16 @@ public class mean {
 
 ```
 
+</details>
+</blockquote>
+
+<blockquote>
+<details>
+	<summary>image</summary>
+
 ![Alt homework11](./images/homework11.jpg)	
+</details>
+</blockquote>
 </details>
 
 
@@ -464,12 +544,23 @@ public class mean {
 	<summary>
 		### Homework 12
 	</summary>
+<blockquote>
+<details>
+	<summary>code</summary>
 	
 ```java
 	not codig
 ```
+</details>
+</blockquote>
 
+<blockquote>
+<details>
+	<summary>image</summary>
+	
 ![Alt homework12](./images/homework12.jpg)	
+</details>
+</blockquote>
 
 </details>
 </details>
@@ -482,6 +573,9 @@ public class mean {
 	<summary>
 		### Homework 13
 	</summary>
+<blockquote>
+<details>
+	<summary>code</summary>
 	
 ```java
 import java.util.Scanner;
@@ -516,7 +610,17 @@ public class calc {
 }
 ```
 
+</details>
+</blockquote>
+
+<blockquote>
+<details>
+	<summary>image</summary>
+
 ![Alt homework13](./images/homework13.jpg)	
+</details>
+</blockquote>
+
 </details>
 
 <details>
@@ -650,8 +754,13 @@ public class numtest {
 ```
 </details>
 </blockquote>
+<blockquote>
+<details>
+	<summary>image</summary>
 
 ![Alt homework14](./images/homework14.jpg)	
+</details>
+</blockquote>
 
 </details>
 
