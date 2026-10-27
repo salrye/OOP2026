@@ -15,8 +15,8 @@
 <blockquote>
 	<details>
 		<summary>code</summary>
+		
 ```java
-
 public class HelloWorld {
     public static void main(String []args){
        for(int i=0; i<10; i++) {
@@ -61,6 +61,7 @@ public class HelloWorld {
 
 }
 ```
+
 </details>
 </blockquote>
 <blockquote>
@@ -78,7 +79,8 @@ public class HelloWorld {
 		</summary>
 <blockquote>
 <details>
-	<summary>code</summary>	
+	<summary>code</summary>
+
 ```java
 public class pivo {
 	public static void main(String []args){
@@ -94,6 +96,7 @@ public class pivo {
 	}	
 }
 ```
+
 </details>
 </blockquote>
 <blockquote>
@@ -131,6 +134,7 @@ public class golden_ratio{
 	
 }
 ```
+
 </details>
 </blockquote>
 <blockquote>
@@ -162,6 +166,7 @@ public class multiplication_table {
 	}
 }
 ```
+				
 </details>
 </blockquote>
 
