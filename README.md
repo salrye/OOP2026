@@ -603,8 +603,10 @@ public class numtest {
 }
 ```
 </details>
-</blockquote>			
+</blockquote>
+
 ![Alt homework14](./images/homework14.jpg)	
+
 </details>
 
 
