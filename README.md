@@ -15,7 +15,6 @@
 <blockquote>
 	<details>
 		<summary>code</summary>
-
 ```java
 
 public class HelloWorld {
@@ -67,6 +66,7 @@ public class HelloWorld {
 <blockquote>
 <details>
 	<summary>image</summary>
+	
 ![Alt homework1](./images/homework1.jpg)
 </details>
 </blockquote>
@@ -150,7 +150,6 @@ public class golden_ratio{
 <blockquote>
 <details>
 	<summary>code</summary>
-
 ```java
 public class multiplication_table {
 	public static void main(String []args) {
@@ -169,6 +168,7 @@ public class multiplication_table {
 <blockquote>
 <details>
 	<summary>image</summary>
+	
 ![Alt homework4](./images/homework4.jpg)
 </details>
 </blockquote>
